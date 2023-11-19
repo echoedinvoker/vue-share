@@ -1,0 +1,71 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "cccc"
+    },
+    {
+      "id": 2,
+      "title": "Life Updates",
+      "author": "Alice"
+    },
+    {
+      "id": 3,
+      "title": "Travel Diary",
+      "author": "Bob"
+    },
+    {
+      "id": 4,
+      "title": "Programming Tips",
+      "author": "Charlie"
+    },
+    {
+      "id": 5,
+      "title": "JavaScript Tricks",
+      "author": "David"
+    },
+    {
+      "id": 6,
+      "title": "Health & Wellness",
+      "author": "Eve"
+    },
+    {
+      "id": 7,
+      "title": "Photography 101",
+      "author": "Frank"
+    },
+    {
+      "id": 8,
+      "title": "Cooking Mastery",
+      "author": "Grace"
+    },
+    {
+      "id": 9,
+      "title": "Gaming World",
+      "author": "Hugo"
+    },
+    {
+      "id": 10,
+      "title": "Fashion Trends",
+      "author": "Ivy"
+    },
+    {
+      "id": 11,
+      "title": "Latest Tech",
+      "author": "Jack"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "Awesome post!",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "I disagree.",
+      "postId": 3
+    }
+  ]
+}
